@@ -19,8 +19,8 @@
     "leaflet-pip": "~1.0.0",
     "leaflet.gridlayer.googlemutant": "~0.4.3",
     "leaflet.locatecontrol": "^0.62.0",
-    "lodash": "^4.17.4",
-    "moment": "2.19.3",
+    "lodash": "^4.17.21",
+    "moment": "2.29.4",
     "mustache": "~2.2.1",
     "numeral": "1.5.3",
     "ramda": "^0.23.0",
@@ -37,7 +37,7 @@
     "imports-loader": "^0.6.5",
     "jshint": "^2.9.2",
     "mocha": "~1.14.0",
-    "node-sass": "^3.13.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^1.1.1",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
@@ -45,7 +45,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "webpack-bundle-tracker": "0.0.93",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^3.1.11"
   },
   "repository": {
     "type": "git",
